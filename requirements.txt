@@ -1,0 +1,13 @@
+# Module 6 — Flask + HTML Frontend
+# pip install -r requirements.txt
+
+flask>=3.0.0
+flask-cors>=4.0.0
+numpy==1.26.4
+torch==2.1.0
+torchaudio==2.1.0
+openai-whisper
+speechbrain==0.5.16
+scikit-learn>=1.4.0
+groq>=0.9.0
+soundfile>=0.12.1
